@@ -2,7 +2,11 @@
 
 # Install Command
 ```
-pkg install python
-pkg install git
-pkg install toilet
+pip install requests
+pip install bs4
+pip install faker
+pip install 'fake_useragent'
+git clone
+cd Auto-FB
+python a.py
 ```
